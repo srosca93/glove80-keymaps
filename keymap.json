@@ -1,9 +1,9 @@
 {
   "keyboard": "glove80",
   "uuid": "",
-  "date": 1707714584,
+  "date": 1707715328,
   "creator": "",
-  "parent_uuid": "f141d4b1-5b91-4923-bad4-c91f5cae7472",
+  "parent_uuid": "099e02b6-ab0f-48ec-9139-4050dc101275",
   "firmware_api_version": "1",
   "locale": "en-US",
   "title": "Sasha's Keymap (w/ Sunaku's HRM)",
@@ -6183,8 +6183,13 @@
         "params": []
       },
       {
-        "value": "&trans",
-        "params": []
+        "value": "&kp",
+        "params": [
+          {
+            "value": "UP",
+            "params": []
+          }
+        ]
       },
       {
         "value": "&trans",
@@ -6227,16 +6232,31 @@
         "params": []
       },
       {
-        "value": "&trans",
-        "params": []
+        "value": "&kp",
+        "params": [
+          {
+            "value": "LEFT",
+            "params": []
+          }
+        ]
       },
       {
-        "value": "&trans",
-        "params": []
+        "value": "&kp",
+        "params": [
+          {
+            "value": "DOWN",
+            "params": []
+          }
+        ]
       },
       {
-        "value": "&trans",
-        "params": []
+        "value": "&kp",
+        "params": [
+          {
+            "value": "RIGHT",
+            "params": []
+          }
+        ]
       },
       {
         "value": "&trans",
@@ -6641,7 +6661,7 @@
         "value": "&kp",
         "params": [
           {
-            "value": "TAB",
+            "value": "DEL",
             "params": []
           }
         ]
