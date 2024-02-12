@@ -1,0 +1,5 @@
+*.dot
+*.dtsi
+*.min
+*.tmp
+*.svg
